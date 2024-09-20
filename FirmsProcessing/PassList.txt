@@ -1,0 +1,11 @@
+MODIS-Terra Viewing Times
+Date		Time(UTC)	Lat (DEG)	Lon (DEG)	Sat. Azi.	Sat.Elev.	Range (km)	Sun Azi.	Sun Elev.	Tilt	Flags*
+30 May 2024	09:52:00	51.2951000		77.7497500		103.47		 77.07		 718		153.58		 17.16		NADIR	
+27 May 2024	12:45:00	51.2951000		77.7497500		103.47		 77.07		 718		153.58		 17.16		NADIR	
+
+* 1 = tilt in progress
+2 = tilt schedule unknown, estimated tilt
+3 = Sat. view ang. > 45 deg
+4 = Possible sunglint
+5 = nighttime pass
+6 = old TLE, accuracy will be degraded

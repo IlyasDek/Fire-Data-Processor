@@ -1,0 +1,10 @@
+# Исключаем логи и временные файлы
+*.log
+/var/log/
+
+# Исключаем файлы конфигураций
+*.env
+
+# Исключаем директории с данными
+/FirmsProcessing/DownloadedData/
+/FirmsProcessing/ProcessedData/
